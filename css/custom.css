@@ -10,6 +10,14 @@
     font-size: 26px;
 }
 
+.small-items ol li {
+    font-size: 34px;
+}
+
 .small-text ul li {
     font-size: 34px;
+}
+
+.small-paragraph p{
+	font-size: 38px;
 }

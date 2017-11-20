@@ -1,4 +1,4 @@
-### Costos
+### Costos de las actividades
 
 | Actividad | Costos |
 |-----------|--------|

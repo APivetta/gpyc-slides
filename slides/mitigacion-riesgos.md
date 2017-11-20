@@ -6,3 +6,5 @@
 	* *Presentaciones periódicas de demos de avance a los usuarios.*
 3. Falla en los servidores
 	* *Contar con servidores de respaldo y servicios en la nube.*
+4. Sensores defectuosos
+	* *Comprar sensores que cumplan altos estándares de calidad y comprar sensores adicionales.*
