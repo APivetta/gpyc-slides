@@ -1,4 +1,5 @@
 ### Mitigación de riesgos
+
 1. Rotación de Recursos
 	* *Mejoras en los factores higiénicos de la empresa y planificación de traspaso de conocimientos.*
 2. Cambio de alcance

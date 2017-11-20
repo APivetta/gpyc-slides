@@ -1,6 +1,7 @@
-#### Costos
+### Costos
+
 | Actividad | Costos |
-|-----------|--------:|
+|-----------|--------|
 |Relevamiento|$ 92.000,00|
 |Diseño funcional|$ 222.200,00|
 |Prototipado|$ 139.200,00|
