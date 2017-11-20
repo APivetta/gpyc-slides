@@ -1,7 +1,11 @@
-.stakeholders table {
+.slide-table table {
     color: white;
     font-size: 23px;
 }
 .reveal h2, .reveal h3, .reveal h4{
 	text-transform: none;
+}
+
+.small-items ol ul li {
+    font-size: 26px;
 }
