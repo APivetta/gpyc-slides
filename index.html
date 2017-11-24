@@ -28,7 +28,7 @@
       <section class="slide-table" data-markdown="slides/costos.md"></section>
       <section class="small-items" data-markdown="slides/riesgos.md"></section>
       <section class="small-items" data-markdown="slides/mitigacion-riesgos.md"></section>
-            <section data-markdown>
+      <section data-markdown>
         <textarea data-template>
           ## Estado de Avance
         </textarea>
@@ -38,7 +38,11 @@
       <section class="small-paragraph" data-markdown="slides/riesgos-manifestados.md"></section>
       <section data-markdown="slides/riesgos-manifestados2.md"></section>
       <section class="small-paragraph" data-markdown="slides/conclusion-final.md"></section>
-
+            <section data-markdown>
+        <textarea data-template>
+          ## Gracias
+        </textarea>
+      </section>
     </div>
   </div>
   <script src="js/reveal.js"></script>
@@ -48,6 +52,13 @@
   Reveal.initialize();
 
   </script>
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
 </body>
 
 </html>
